@@ -1,14 +1,21 @@
 import express, { Request, Response } from 'express';
+import { generateFakeData } from './fake-data';
+import db from './mongodb';
 
 const app = express();
-app.use(express.json({limit: '100000mb'}));
 const port: number = 3000;
+app.use(express.json({limit: '100000mb'}));
 
-app.post('/', (req: Request, res: Response) => {
-  console.log("Body: ", req.body)
+app.post('/notify-users', (req: Request, res: Response) => {
+  res.status(200)
+});
+
+app.post('/generate-addresses', async (req: Request, res: Response) => {
+  const addresses = generateFakeData(1000)
+  await db.collection('addresses').insertMany(addresses)
   res.status(200)
 });
 
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Serving on: ${port}`);
 });

@@ -1,0 +1,4943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+    <item>
+        <ID>1</ID>
+        <Nome> Maria Pereira Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910488849</Telemvel>
+        <Referncia ns:originalKey="Referência">colega</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menina 11 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>2</ID>
+        <Nome>Abdul Basher</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938375806</Telemvel>
+        <Nacionalidade>BD</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>3</ID>
+        <Nome>Ada</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966536990</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>4</ID>
+        <Nome>Adajilza Tavares</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927505977</Telemvel>
+        <Referncia ns:originalKey="Referência">Adjamila </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>ST</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>5</ID>
+        <Nome>Adelita Nascimento</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937039930</Telemvel>
+        <Referncia ns:originalKey="Referência">colega adriano</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Pedidos>Passa à frente na fila. </Pedidos>
+        <Notas>boys 4 and 5</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>6</ID>
+        <Nome>Adil Silva </Nome>
+        <Telemvel ns:originalKey="Telemóvel">938176136</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>7</ID>
+        <Nome>Adjamila do Espírito Santo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966141593</Telemvel>
+        <Referncia ns:originalKey="Referência">D.Amália </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>ST </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>8</ID>
+        <Nome>Adriana</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934844889</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina (igreja)</Referncia>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>9</ID>
+        <Nome>Adriana Sousa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920135065</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta S Lázaro</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Pedidos>girl 3 boy 6</Pedidos>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>10</ID>
+        <Nome>Adriana Vieira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915206220</Telemvel>
+        <Referncia ns:originalKey="Referência">Jéssica </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>11</ID>
+        <Nome>Agnes Pedro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964724982</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Pedidos>menino 1m</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>12</ID>
+        <Nome>Alassan</Nome>
+        <Referncia ns:originalKey="Referência">17 anos</Referncia>
+        <Nacionalidade>SN</Nacionalidade>
+        <Notas>Adolescer</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>13</ID>
+        <Nome>Aldana La Vega </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915681662</Telemvel>
+        <Referncia ns:originalKey="Referência">redes sociais </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>AR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>14</ID>
+        <Nome>Alejandro Brochero</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911053996</Telemvel>
+        <Referncia ns:originalKey="Referência">Daiana</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>15</ID>
+        <Nome>Alexandra</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913099435</Telemvel>
+        <Referncia ns:originalKey="Referência">Ucranian chat</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>16</ID>
+        <Nome>Alexandra Ferreira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933341474</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>17</ID>
+        <Nome>Alexandrina Gomes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913415678</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Pedidos>menino 4</Pedidos>
+        <Notas>casa de brincar</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>18</ID>
+        <Nome>Alexandro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915710815</Telemvel>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>19</ID>
+        <Nome>Alfredo gil </Nome>
+        <Telemvel ns:originalKey="Telemóvel">966303307</Telemvel>
+        <Referncia ns:originalKey="Referência">Sa de miranda</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>20</ID>
+        <Nome>Alim</Nome>
+        <Referncia ns:originalKey="Referência">16 anos</Referncia>
+        <Nacionalidade>GM</Nacionalidade>
+        <Notas>Adolescer</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>21</ID>
+        <Nome>Álvaro Neto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914053852</Telemvel>
+        <Referncia ns:originalKey="Referência">Bruno Mesquita</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>22</ID>
+        <Nome>Alyona</Nome>
+        <Referncia ns:originalKey="Referência">Tânia</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>23</ID>
+        <Nome>Amália Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933651314</Telemvel>
+        <Referncia ns:originalKey="Referência">D. Amélia </Referncia>
+        <Pedidos>camas criança e adulto sofás, mesa, </Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>24</ID>
+        <Nome>Amelia Sassa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938558466</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>AO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>25</ID>
+        <Nome>Aminata Ducure</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910841296</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <Notas>grávida </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>26</ID>
+        <Nome>Ana Carolina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914230577</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla </Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>27</ID>
+        <Nome>Ana Esperança Ayala</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931892315</Telemvel>
+        <Referncia ns:originalKey="Referência">Sa ser Miranda</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>SV</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>28</ID>
+        <Nome>Ana Figueiredo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910500196</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>grávida  e menino 6 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>29</ID>
+        <Nome>Ana Maria Pimentel </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913608146</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>30</ID>
+        <Nome>Ana Paula Maia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">98872764</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>31</ID>
+        <Nome>Ana Ricardo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913175380</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>32</ID>
+        <Nome>Ana Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939143275</Telemvel>
+        <Referncia ns:originalKey="Referência">irmã</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>33</ID>
+        <Nome>Ana Sousa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933950510</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>34</ID>
+        <Nome>Anastasia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910823837</Telemvel>
+        <Referncia ns:originalKey="Referência">Yelizavete</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>35</ID>
+        <Nome>Anderson</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912840805</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>36</ID>
+        <Nome>André</Nome>
+        <Telemvel ns:originalKey="Telemóvel">95723513</Telemvel>
+        <Referncia ns:originalKey="Referência">Letícia</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>37</ID>
+        <Nome>André Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965173165</Telemvel>
+        <Referncia ns:originalKey="Referência">Mila</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>38</ID>
+        <Nome>André Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932335321</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>39</ID>
+        <Nome>André Silva </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915723513</Telemvel>
+        <Referncia ns:originalKey="Referência">s. votor</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>40</ID>
+        <Nome>Andreia </Nome>
+        <Telemvel ns:originalKey="Telemóvel">925525491</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta São Lázaro</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>41</ID>
+        <Nome>Andres Espinosa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938031930</Telemvel>
+        <Referncia ns:originalKey="Referência">Evelin</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>42</ID>
+        <Nome>andreza severo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913809383</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>43</ID>
+        <Nome>Ângela Araújo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913539478</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>44</ID>
+        <Nome>Angela Costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937200673</Telemvel>
+        <Referncia ns:originalKey="Referência">grupo wpp</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>45</ID>
+        <Nome>Angey Rodriguez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929157803</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo Ladi</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <Notas>Menina 3</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>46</ID>
+        <Nome>Angie Martinez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931411102</Telemvel>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>47</ID>
+        <Nome>Antonieta </Nome>
+        <Telemvel ns:originalKey="Telemóvel">960080155</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta Freguesia </Referncia>
+        <Nacionalidade>VE </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>48</ID>
+        <Nome>António Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914915016</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>projeto homem</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>49</ID>
+        <Nome>António Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913822696</Telemvel>
+        <Referncia ns:originalKey="Referência">namorado 233</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>Gémeos 4</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>50</ID>
+        <Nome>Antonny Rodriguez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932050226</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>51</ID>
+        <Nome>Aparecida Marques</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931879310</Telemvel>
+        <Referncia ns:originalKey="Referência">6</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>52</ID>
+        <Nome>Areana Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911949057</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menina 3 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>53</ID>
+        <Nome>Ariane Bravo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936074550</Telemvel>
+        <Referncia ns:originalKey="Referência">Elisandra</Referncia>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>54</ID>
+        <Nome>Ariane Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911949057</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>55</ID>
+        <Nome>Aroldo José </Nome>
+        <Telemvel ns:originalKey="Telemóvel">963427305</Telemvel>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>56</ID>
+        <Nome>Artur de Góis </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912921623</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta Freg São Laz </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>57</ID>
+        <Nome>Asmita Thapa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920039998</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Pedidos>menino 7m</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>58</ID>
+        <Nome>Augusto Cardoso</Nome>
+        <Referncia ns:originalKey="Referência">Igreja S. Lázaro </Referncia>
+        <Nacionalidade>PT </Nacionalidade>
+        <Pedidos>5 filhos fora</Pedidos>
+        <Notas>Vive na rua</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>59</ID>
+        <Nome>Aura Vilera</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931922795</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>VE </Nacionalidade>
+        <Notas>menino 1 ano </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>60</ID>
+        <Nome>Aurora Cunha</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913762595</Telemvel>
+        <Referncia ns:originalKey="Referência">Funci. Shopping</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Pedidos>2 meninas 1 e 6 anos</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>61</ID>
+        <Nome>Barun</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920236551</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>62</ID>
+        <Nome>Belém</Nome>
+        <Referncia ns:originalKey="Referência">Brasileiros</Referncia>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>63</ID>
+        <Nome>belen </Nome>
+        <Telemvel ns:originalKey="Telemóvel">926603248</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>UY </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>64</ID>
+        <Nome>Bernarda Galpes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920121067</Telemvel>
+        <Referncia ns:originalKey="Referência">Rapariga Brasileira</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>65</ID>
+        <Nome>Bianca Naveo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914275185</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>66</ID>
+        <Nome>Bibiane Morais</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913325267</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>67</ID>
+        <Nome>Binta  Culubali</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920187946</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <Notas>menina 3</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>68</ID>
+        <Nome>Bohdan</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920076610</Telemvel>
+        <Referncia ns:originalKey="Referência">Micael - ucraniano</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>69</ID>
+        <Nome>Brenda Cassio</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927963755</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>Boys 12 e 19</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>70</ID>
+        <Nome>Breno Nunes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933950482</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>71</ID>
+        <Nome>Bruno Mesquita</Nome>
+        <Telemvel ns:originalKey="Telemóvel">969632750</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>72</ID>
+        <Nome>Calmiro Mario</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964892761</Telemvel>
+        <Referncia ns:originalKey="Referência">Local de trabalho</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>73</ID>
+        <Nome>Camila Lamounier </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933597119</Telemvel>
+        <Referncia ns:originalKey="Referência">Grupo de doação </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>74</ID>
+        <Nome>carlos Alberto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961075812</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>75</ID>
+        <Nome>Carlos Moura</Nome>
+        <Referncia ns:originalKey="Referência">Sá de Miranda</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>76</ID>
+        <Nome>Carlos Sandoval</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915511952</Telemvel>
+        <Referncia ns:originalKey="Referência">publicação</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>77</ID>
+        <Nome>Carolina Melo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915224536</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigos brasileiros</Referncia>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>78</ID>
+        <Nome>Caroline Harz</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965891064</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>79</ID>
+        <Nome>Cátia </Nome>
+        <Telemvel ns:originalKey="Telemóvel">911598429</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>80</ID>
+        <Nome>Celso Costa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">937331431</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>81</ID>
+        <Nome>César Garcia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920486990</Telemvel>
+        <Referncia ns:originalKey="Referência">Prof. Ana AS</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Notas>Columbianos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>82</ID>
+        <Nome>César Garcia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920486990</Telemvel>
+        <Referncia ns:originalKey="Referência">escola sampaio</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>83</ID>
+        <Nome>Cesar ortega</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912011605</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>AR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>84</ID>
+        <Nome>Chailan cardoso </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935997529</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga elisandra </Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CV </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>85</ID>
+        <Nome>Chin Kumari</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920480420</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>86</ID>
+        <Nome>Cláudia Arias</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910227255</Telemvel>
+        <Referncia ns:originalKey="Referência">escola sampaio</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>87</ID>
+        <Nome>Cláudia Hernandez </Nome>
+        <Telemvel ns:originalKey="Telemóvel">9868864827</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CU </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>88</ID>
+        <Nome>Cláudia Sousa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915258599</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>Girl 2 Boy 11</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>89</ID>
+        <Nome>Claudina Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932409663</Telemvel>
+        <Referncia ns:originalKey="Referência">Adriana</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>90</ID>
+        <Nome>Cleidiana </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914417132</Telemvel>
+        <Referncia ns:originalKey="Referência">Sobrinha tamara </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>91</ID>
+        <Nome>Cleilson lopes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">93789991</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>92</ID>
+        <Nome>Cleomar Cunha</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912225441</Telemvel>
+        <Referncia ns:originalKey="Referência">VaP   K37</Referncia>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>93</ID>
+        <Nome>Conceição Morais</Nome>
+        <Telemvel ns:originalKey="Telemóvel">930531090</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>94</ID>
+        <Nome>Coromoto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">04129437055</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>95</ID>
+        <Nome>Daniel</Nome>
+        <Telemvel ns:originalKey="Telemóvel">921461709</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla </Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>96</ID>
+        <Nome>Daniel Posada</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913715096</Telemvel>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>97</ID>
+        <Nome>Daniela </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935579765</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>98</ID>
+        <Nome>Daniela Gonçalves</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935923927</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga Ladi</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <Notas>Roupa gravida</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>99</ID>
+        <Nome>daniela veiga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933822623</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>100</ID>
+        <Nome>Danielle</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964669355</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>101</ID>
+        <Nome>Danillo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912357341</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>102</ID>
+        <Nome>Danilo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937094457</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>103</ID>
+        <Nome>Danilo Nunes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927115263</Telemvel>
+        <Referncia ns:originalKey="Referência">Família </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>104</ID>
+        <Nome>Daria</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938670704</Telemvel>
+        <Referncia ns:originalKey="Referência">ucranian chat</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>105</ID>
+        <Nome>Débora Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">922296499</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga samara </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade> BR</Nacionalidade>
+        <Pedidos>-5</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>106</ID>
+        <Nome>Décio Costa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914229802</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>107</ID>
+        <Nome>Diana Gomes </Nome>
+        <Telemvel ns:originalKey="Telemóvel">965344761</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>108</ID>
+        <Nome>Diana Salazar </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914060655</Telemvel>
+        <Referncia ns:originalKey="Referência">amigas</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>109</ID>
+        <Nome>Douglas Lobo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935579714</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>110</ID>
+        <Nome>Drica</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925269165</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>111</ID>
+        <Nome>Drielly</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937922461</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina (igreja)</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>berço e carrinho</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>112</ID>
+        <Nome>Dulce Borges</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926249072</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>113</ID>
+        <Nome>Dulce Costa</Nome>
+        <Referncia ns:originalKey="Referência">Igreja S. Lázaro </Referncia>
+        <Nacionalidade>PT</Nacionalidade>
+        <Pedidos>2 filhos grandes</Pedidos>
+        <Notas>Vive na rua</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>114</ID>
+        <Nome>Eddiane Ribeiro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912081435</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>115</ID>
+        <Nome>Eder Perez </Nome>
+        <Telemvel ns:originalKey="Telemóvel">962012690</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>116</ID>
+        <Nome>Edileuza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933139851</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga Adriana</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>117</ID>
+        <Nome>Edivania </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914053740</Telemvel>
+        <Referncia ns:originalKey="Referência"> Colega de trabalho </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>118</ID>
+        <Nome>Ednilza Pires da Conceição </Nome>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ST </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>119</ID>
+        <Nome>Edson Braz</Nome>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>120</ID>
+        <Nome>Eduardo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920966577</Telemvel>
+        <Referncia ns:originalKey="Referência">professora Ana</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>121</ID>
+        <Nome>Edvin Reyes </Nome>
+        <Referncia ns:originalKey="Referência">VAP</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>GT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>122</ID>
+        <Nome>Edward Muñoz</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931922697</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <Notas>menino 1 ano</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>123</ID>
+        <Nome>Elaine Leite</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912729185</Telemvel>
+        <Referncia ns:originalKey="Referência">amigas</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>124</ID>
+        <Nome>Elaine Rabello</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910476644</Telemvel>
+        <Referncia ns:originalKey="Referência">Igreja Janaina</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>125</ID>
+        <Nome>elen</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932274981</Telemvel>
+        <Referncia ns:originalKey="Referência">grupo</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>126</ID>
+        <Nome>Elisa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920577853</Telemvel>
+        <Referncia ns:originalKey="Referência">Grupo ucraniano </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>127</ID>
+        <Nome>Elisabete Fernandes </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964126497</Telemvel>
+        <Referncia ns:originalKey="Referência">Palmira</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>128</ID>
+        <Nome>Elisandra Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934393959</Telemvel>
+        <Referncia ns:originalKey="Referência">Sogra </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CV</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>129</ID>
+        <Nome>Elisandra Sousa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938854133</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta de Freguesia</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>130</ID>
+        <Nome>Elizangela Carvalho</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912344256</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>131</ID>
+        <Nome>Emanuela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961659597</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla associação </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>132</ID>
+        <Nome>Emerson Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929343341</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>AO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>133</ID>
+        <Nome>Erico Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">931391767</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>134</ID>
+        <Nome>Erika Dias</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914139394</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>135</ID>
+        <Nome>Estela Perez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937874448</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Nacionalidade>AR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>136</ID>
+        <Nome>Ester Fonseca </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934239236</Telemvel>
+        <Referncia ns:originalKey="Referência">prima</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>menino 1 ano </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>137</ID>
+        <Nome>Evandro Rabello</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912287782</Telemvel>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>138</ID>
+        <Nome>Evelyn Urbina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933420983</Telemvel>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>139</ID>
+        <Nome>everton henrique </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912171322</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>140</ID>
+        <Nome>Ezabete almeida</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920491438</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>141</ID>
+        <Nome>Fábia Luzia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932729740</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>girl 10 boy 1</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>142</ID>
+        <Nome>Fabiana Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966947940</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>bebê</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>143</ID>
+        <Nome>Fabrice François </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912753793</Telemvel>
+        <Referncia ns:originalKey="Referência">Wiliane</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>HT</Nacionalidade>
+        <Notas>menino 2 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>144</ID>
+        <Nome>Fátima Buaro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920130195</Telemvel>
+        <Referncia ns:originalKey="Referência">irmã </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <Notas>meninos 3 anos e 1 ano</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>145</ID>
+        <Nome>Flavio Henrique </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920586585</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>146</ID>
+        <Nome>Francielle Braga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910632799</Telemvel>
+        <Referncia ns:originalKey="Referência">colega de trabalho</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>147</ID>
+        <Nome>Francilane Lima </Nome>
+        <Telemvel ns:originalKey="Telemóvel">925689089</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>lençóis</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>148</ID>
+        <Nome>Francisco Coelho</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961066193</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>149</ID>
+        <Nome>Gabriela Bastos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">924882039</Telemvel>
+        <Referncia ns:originalKey="Referência">instituição</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Pedidos>babycoc</Pedidos>
+        <Notas>menina 2anos e grávida </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>150</ID>
+        <Nome>Geisa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931183135</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga brasileira</Referncia>
+        <Pedidos>computador e aspirador</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>151</ID>
+        <Nome>George Rocha</Nome>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>152</ID>
+        <Nome>Geovanna</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920129627</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>153</ID>
+        <Nome>Ginett </Nome>
+        <Telemvel ns:originalKey="Telemóvel">929051052</Telemvel>
+        <Referncia ns:originalKey="Referência">Sa de Miranda </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>ES </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>154</ID>
+        <Nome>Gisela Ibarra</Nome>
+        <Telemvel ns:originalKey="Telemóvel">968557425</Telemvel>
+        <Referncia ns:originalKey="Referência">Ana Carolina</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>UY</Nacionalidade>
+        <Pedidos>1 Cama solteiro estrato</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>155</ID>
+        <Nome>Gisele Brito </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915770241</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Pedidos>meninos 8, 12, 15</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>156</ID>
+        <Nome>Gislene Andrade</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920493584</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>157</ID>
+        <Nome>Gladys Bonilla</Nome>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>158</ID>
+        <Nome>Gleice Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929426766</Telemvel>
+        <Referncia ns:originalKey="Referência">Mila</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Pedidos>menino 7</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>159</ID>
+        <Nome>Grecia Mesia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931455846</Telemvel>
+        <Referncia ns:originalKey="Referência">namorado</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>160</ID>
+        <Nome>Guilherme Leite</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966851057</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>161</ID>
+        <Nome>Guilherme Maranhão </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910566522</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>12 anos e 22 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>162</ID>
+        <Nome>Gustavo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934844881</Telemvel>
+        <Referncia ns:originalKey="Referência">Mulher</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade> BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>163</ID>
+        <Nome>Gustavo Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933245903</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>164</ID>
+        <Nome>Harilucio Pereira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932746693</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>165</ID>
+        <Nome>Hayhallyson Barbosa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965173482</Telemvel>
+        <Referncia ns:originalKey="Referência">familiar</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>roupas criança</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>166</ID>
+        <Nome>hector Ramires </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910134637</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>167</ID>
+        <Nome>Hélder Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939424190</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>168</ID>
+        <Nome>Hilda guerreiro </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915512998</Telemvel>
+        <Referncia ns:originalKey="Referência">Ana bravo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>169</ID>
+        <Nome>Honchayder jochuah</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932218804</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigas</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>170</ID>
+        <Nome>hoovet aranda</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931810163</Telemvel>
+        <Referncia ns:originalKey="Referência">primo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>171</ID>
+        <Nome>Hugo Leonardo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932048533</Telemvel>
+        <Referncia ns:originalKey="Referência">Redes Sociais</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>172</ID>
+        <Nome>Hukorau</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962629510</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>173</ID>
+        <Nome>Hywrhins</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936799705</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>174</ID>
+        <Nome>Iara Oliveira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932928757</Telemvel>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>175</ID>
+        <Nome>Igor Henrique </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915495109</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>176</ID>
+        <Nome>Inaria Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910515359</Telemvel>
+        <Referncia ns:originalKey="Referência">Beneficiarios</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>177</ID>
+        <Nome>Ingrid Diaz</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931923697</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga Ladi</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>178</ID>
+        <Nome>Iolanda Cerqueira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914753515</Telemvel>
+        <Referncia ns:originalKey="Referência">Shopping</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>girls 8, 19, 15</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>179</ID>
+        <Nome>Iracy Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961432106</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>180</ID>
+        <Nome>Irina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">918069936</Telemvel>
+        <Referncia ns:originalKey="Referência">Ucrânia chat</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>UA </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>181</ID>
+        <Nome>Iris Cristina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914081609</Telemvel>
+        <Referncia ns:originalKey="Referência">Visita</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>182</ID>
+        <Nome>Isabela Andrade</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911991285</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>183</ID>
+        <Nome>Isabelle Espindola</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911152743</Telemvel>
+        <Referncia ns:originalKey="Referência">Fabiano</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>184</ID>
+        <Nome>Isilda mendes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920330758</Telemvel>
+        <Referncia ns:originalKey="Referência">prima</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>185</ID>
+        <Nome>Isis Gonzalez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925561083</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>Cuba</Nacionalidade>
+        <Notas>Girl 6</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>186</ID>
+        <Nome>Italo Bartra</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934983467</Telemvel>
+        <Referncia ns:originalKey="Referência">Primo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>187</ID>
+        <Nome>Ivandro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912287782</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>188</ID>
+        <Nome>ivanira</Nome>
+        <Referncia ns:originalKey="Referência">jaqueline</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>189</ID>
+        <Nome>Ivanira Ferreira</Nome>
+        <Referncia ns:originalKey="Referência">filha de K37</Referncia>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>190</ID>
+        <Nome>Jackson Oliveira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912913154</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>boy 10, 5, 8</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>191</ID>
+        <Nome>Jailson </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913073319</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>192</ID>
+        <Nome>Jailton</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911729551</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>193</ID>
+        <Nome>Jailton - marido Adriana</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911729551</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina (igreja)</Referncia>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>194</ID>
+        <Nome>Jainny Franklin </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964918953</Telemvel>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>195</ID>
+        <Nome>Janaina (igreja)</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913957849</Telemvel>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>196</ID>
+        <Nome>Janaina Vieira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912298390</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina (igreja)</Referncia>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>197</ID>
+        <Nome>Jandui silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926787027</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>198</ID>
+        <Nome>janel</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911930155</Telemvel>
+        <Referncia ns:originalKey="Referência">farhad </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>199</ID>
+        <Nome>Jaquelina  Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">963454721</Telemvel>
+        <Referncia ns:originalKey="Referência"> VaP   K74</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>200</ID>
+        <Nome>Jaqueline Marquea</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910799949</Telemvel>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>201</ID>
+        <Nome>Jarilane Ferreira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">939988859</Telemvel>
+        <Referncia ns:originalKey="Referência">grupo de redes sociais </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>menina 9 e menino 3</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>202</ID>
+        <Nome>Jeanet Urizar </Nome>
+        <Telemvel ns:originalKey="Telemóvel">911930155</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>203</ID>
+        <Nome>Jeissom Urtado</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920466577</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>204</ID>
+        <Nome>Jeisson Guerrero</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920466577</Telemvel>
+        <Referncia ns:originalKey="Referência">escola sampaio</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>205</ID>
+        <Nome>Jenny Bernal</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936531083</Telemvel>
+        <Referncia ns:originalKey="Referência">Fahrad</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <Pedidos>1 cama de solteiro. Bairro da Alegria. </Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>206</ID>
+        <Nome>Jerónimo Lufuakenda </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935098771</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>AO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>207</ID>
+        <Nome>Jessica</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965336800</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla - Hostel</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>208</ID>
+        <Nome>Jessica Avani</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932703110</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>209</ID>
+        <Nome>Jéssica Lacerda</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934849387</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigos brasileiros</Referncia>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>210</ID>
+        <Nome>Jessica Morais </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910210559</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>menina 2 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>211</ID>
+        <Nome>Jessica Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933260575</Telemvel>
+        <Referncia ns:originalKey="Referência">Irmã Jaqueline Ferreira </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>212</ID>
+        <Nome>Jessica Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">963233857</Telemvel>
+        <Referncia ns:originalKey="Referência">Conhecido Igor</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>213</ID>
+        <Nome>Jéssica Soares</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912344256</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>214</ID>
+        <Nome>Jesus Henry</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962396955</Telemvel>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>215</ID>
+        <Nome>Jhonson Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932334797</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>216</ID>
+        <Nome>Joana Kukekuka</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920465010</Telemvel>
+        <Referncia ns:originalKey="Referência">associação ADOLESCER</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>AO </Nacionalidade>
+        <Notas>3 crianças: 10 anos, 7 anos e 4 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>217</ID>
+        <Nome>João Nascimento </Nome>
+        <Telemvel ns:originalKey="Telemóvel">919116901</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>218</ID>
+        <Nome>João Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962165701</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>219</ID>
+        <Nome>joao victor </Nome>
+        <Telemvel ns:originalKey="Telemóvel">932703357</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>220</ID>
+        <Nome>Joaquim Marques</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912770167</Telemvel>
+        <Referncia ns:originalKey="Referência">colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>221</ID>
+        <Nome>Joaquim Marques</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912770167</Telemvel>
+        <Referncia ns:originalKey="Referência">colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>222</ID>
+        <Nome>Joel Sousa </Nome>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>223</ID>
+        <Nome>John Jairo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912380823</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>224</ID>
+        <Nome>Jonathan Albuquerque </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915513290</Telemvel>
+        <Referncia ns:originalKey="Referência">Loja da frente</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>225</ID>
+        <Nome>Jonh</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939059814</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>226</ID>
+        <Nome>Jordana Costa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">927756053</Telemvel>
+        <Referncia ns:originalKey="Referência">Mila</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>227</ID>
+        <Nome>Jordânia Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932693581</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>228</ID>
+        <Nome>jorge peyton</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920144702</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>229</ID>
+        <Nome>Jorge Sosa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935837916</Telemvel>
+        <Referncia ns:originalKey="Referência">Primo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>230</ID>
+        <Nome>Jorgina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935100076</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad curso Port</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>231</ID>
+        <Nome>José  Gomes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">968893553</Telemvel>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>232</ID>
+        <Nome>José alejandro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932567294</Telemvel>
+        <Referncia ns:originalKey="Referência">Tio </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>233</ID>
+        <Nome>José Barbosa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965173492</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga Ladi</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>234</ID>
+        <Nome>José Lopes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911936091</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>235</ID>
+        <Nome>José Luís </Nome>
+        <Telemvel ns:originalKey="Telemóvel">671519209</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>236</ID>
+        <Nome>José Vasques </Nome>
+        <Telemvel ns:originalKey="Telemóvel">938161178</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>237</ID>
+        <Nome>Josiane Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912920934</Telemvel>
+        <Referncia ns:originalKey="Referência">familiares </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>238</ID>
+        <Nome>Josianie Rodrigues</Nome>
+        <Referncia ns:originalKey="Referência"> Cunhado </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>239</ID>
+        <Nome>Joti Bhandari</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920338264</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Pedidos>grávida </Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>240</ID>
+        <Nome>juan carlos </Nome>
+        <Telemvel ns:originalKey="Telemóvel">932763066</Telemvel>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>241</ID>
+        <Nome>Juan Mer</Nome>
+        <Telemvel ns:originalKey="Telemóvel">967908339</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>242</ID>
+        <Nome>juan sebastian </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910226262</Telemvel>
+        <Referncia ns:originalKey="Referência">escola Sampaio </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>243</ID>
+        <Nome>Juciane Antunes da Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937 099 326</Telemvel>
+        <Referncia ns:originalKey="Referência">VaP (Farhad e Sandra)</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>gravida</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>244</ID>
+        <Nome>Júlia Costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932746847</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>245</ID>
+        <Nome>Julieta</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920076268</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga </Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>246</ID>
+        <Nome>Junior Urzeda</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915863514</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>247</ID>
+        <Nome>Kacimi Mourad</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920193081</Telemvel>
+        <Referncia ns:originalKey="Referência">Prof. Sá Miranda</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>DZ</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>248</ID>
+        <Nome>Karen Ariza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961679926</Telemvel>
+        <Referncia ns:originalKey="Referência">Grupo de whatsapp</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>249</ID>
+        <Nome>Karen Mendes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938058436</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">10</Famliade>
+        <Nacionalidade>ESa </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>250</ID>
+        <Nome>Karina Blanco</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935008954</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>251</ID>
+        <Nome>Karine Guabiraba</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931708084</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>252</ID>
+        <Nome>Kassia Azevedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964057587</Telemvel>
+        <Referncia ns:originalKey="Referência">K37</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>253</ID>
+        <Nome>Kassia Reis</Nome>
+        <Telemvel ns:originalKey="Telemóvel">922296503</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>254</ID>
+        <Nome>Katherine </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914443334</Telemvel>
+        <Referncia ns:originalKey="Referência">voluntária yudi</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>255</ID>
+        <Nome>Katia Araújo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935217367</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">9</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>256</ID>
+        <Nome>Katiana - VaP K68</Nome>
+        <Telemvel ns:originalKey="Telemóvel">963766512</Telemvel>
+        <Referncia ns:originalKey="Referência">VaP   -  K68</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>257</ID>
+        <Nome>Katiana Gomes </Nome>
+        <Telemvel ns:originalKey="Telemóvel">963766512</Telemvel>
+        <Referncia ns:originalKey="Referência">Vira a Página</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>258</ID>
+        <Nome>Kawsu Drammeh</Nome>
+        <Telemvel ns:originalKey="Telemóvel">960286477</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>GM</Nacionalidade>
+        <Notas>virar a página </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>259</ID>
+        <Nome>Kelly Molina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932763505</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>260</ID>
+        <Nome>Khayrul Basher</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925316276</Telemvel>
+        <Nacionalidade>BD</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>261</ID>
+        <Nome>kinisisa maria joana</Nome>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>262</ID>
+        <Nome>Kinisisa Maria Joana</Nome>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>263</ID>
+        <Nome>Konul</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932365631</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>AZ</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>264</ID>
+        <Nome>Ksenia Beglitsa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935682604</Telemvel>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>265</ID>
+        <Nome>Ladi Azevedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">924715355</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <Notas>boys 16 and 12</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>266</ID>
+        <Nome>Laxmi k.c</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920032240</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>267</ID>
+        <Nome>Leonesa Uwanekwu</Nome>
+        <Telemvel ns:originalKey="Telemóvel">968853306</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>GN</Nacionalidade>
+        <Notas>Menino 6</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>268</ID>
+        <Nome>Leonesa uwanekwu</Nome>
+        <Telemvel ns:originalKey="Telemóvel">968853306</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <Notas>menino 6</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>269</ID>
+        <Nome>Letícia Costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936979267</Telemvel>
+        <Referncia ns:originalKey="Referência">K37</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>boy 2 girl 10</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>270</ID>
+        <Nome>Letícia Generoza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927550404</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>271</ID>
+        <Nome>Levi Carvalho</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912344253</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>272</ID>
+        <Nome>Lewiston Pujay</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912949985</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>273</ID>
+        <Nome>Lili </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934850280</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>274</ID>
+        <Nome>Lilian</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935354271</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>275</ID>
+        <Nome>Lilliana Mujica</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927312164</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>276</ID>
+        <Nome>Linda Salguero</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931135060</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <Notas>Girl 10 </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>277</ID>
+        <Nome>Lindayane </Nome>
+        <Telemvel ns:originalKey="Telemóvel">931174050</Telemvel>
+        <Referncia ns:originalKey="Referência">Assistente social </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Notas>4 sacos de roupa</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>278</ID>
+        <Nome>linexsi</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964663621</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>ES </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>279</ID>
+        <Nome>Liubov &amp; Tetiana</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913480693</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad - Ucraniana</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <Pedidos>Lencois de bebe, alimentacoes</Pedidos>
+        <Notas>Apulia - gravida</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>280</ID>
+        <Nome>Liza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912720490</Telemvel>
+        <Referncia ns:originalKey="Referência">Ucranian chat</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>281</ID>
+        <Nome>Lorena Rincon</Nome>
+        <Telemvel ns:originalKey="Telemóvel">967524751</Telemvel>
+        <Referncia ns:originalKey="Referência">grupo de whatsapp</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <Notas>meninos 3 anos e 7 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>282</ID>
+        <Nome>Luan</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915471449</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla - Hostel</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>283</ID>
+        <Nome>Luana Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925689419</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>284</ID>
+        <Nome>lucar palmeira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">931421176</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>285</ID>
+        <Nome>Lucia lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">558197479449</Telemvel>
+        <Referncia ns:originalKey="Referência">Filha tâmara </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>286</ID>
+        <Nome>Lucia Moreno </Nome>
+        <Telemvel ns:originalKey="Telemóvel">963569768</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>UY </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>287</ID>
+        <Nome>Lucia Ortiz</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931810163</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <Notas>menino 1</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>288</ID>
+        <Nome>Luciana Azevedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939439229</Telemvel>
+        <Referncia ns:originalKey="Referência">bebraga(wathsapp)</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>289</ID>
+        <Nome>Luciana santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938172668</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla associação </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>290</ID>
+        <Nome>Luciane Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937099327</Telemvel>
+        <Referncia ns:originalKey="Referência">Sandra VAP</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>bebé janeiro</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>291</ID>
+        <Nome>Lucília  Alves</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933062122</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>292</ID>
+        <Nome>luis André </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912217547</Telemvel>
+        <Referncia ns:originalKey="Referência">colega amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>mora na rua</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>293</ID>
+        <Nome>Luís Klifton</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931134620</Telemvel>
+        <Referncia ns:originalKey="Referência">esposa</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>boy 12</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>294</ID>
+        <Nome>Luís Lopes (columbiano)</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912380823</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio/Farhad</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>295</ID>
+        <Nome>Luís Viana </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910765493</Telemvel>
+        <Referncia ns:originalKey="Referência">Palmira</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>296</ID>
+        <Nome>Luiz Guilherme </Nome>
+        <Telemvel ns:originalKey="Telemóvel">937385445</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>297</ID>
+        <Nome>Luz Padilla</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914251480</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>298</ID>
+        <Nome>Luzia Costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">930617357</Telemvel>
+        <Referncia ns:originalKey="Referência">doutora Joana</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>299</ID>
+        <Nome>Luzia Neta Rua</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935514638</Telemvel>
+        <Referncia ns:originalKey="Referência">Dra Paula SegSoc</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>300</ID>
+        <Nome>Madson Oliveira Pereira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932801372</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio </Referncia>
+        <Famliade ns:originalKey="Família de">7</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>301</ID>
+        <Nome>Maguida Gomes Teixeira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920164871</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <Notas>gravida</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>302</ID>
+        <Nome>Manuel Alex</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925210520</Telemvel>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BG </Nacionalidade>
+        <Notas>roupa bebe</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>303</ID>
+        <Nome>Manuela Cruz</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913786381</Telemvel>
+        <Referncia ns:originalKey="Referência">VAP</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>MX</Nacionalidade>
+        <Pedidos>meninos 5 e 8</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>304</ID>
+        <Nome>Manuela Magalhães</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934709987</Telemvel>
+        <Referncia ns:originalKey="Referência">VaP   K37</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Notas>Boys 2</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>305</ID>
+        <Nome>Marcela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934669566</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>306</ID>
+        <Nome>Marcelo Cepeda</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932533981</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>307</ID>
+        <Nome>Márcio VaP K73</Nome>
+        <Referncia ns:originalKey="Referência">VaP</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>308</ID>
+        <Nome>Maria  Gomes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964181124</Telemvel>
+        <Referncia ns:originalKey="Referência">VaP - K68</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>309</ID>
+        <Nome>Maria Blanco</Nome>
+        <Telemvel ns:originalKey="Telemóvel">923934170</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga Ladi</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>310</ID>
+        <Nome>Maria Clara</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933656067</Telemvel>
+        <Referncia ns:originalKey="Referência">Jaqueline K74</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>311</ID>
+        <Nome>Maria de Lurdes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926546350</Telemvel>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>312</ID>
+        <Nome>Maria de Lurdes Cerqueira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912752924</Telemvel>
+        <Referncia ns:originalKey="Referência">prima</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>313</ID>
+        <Nome>Maria del pilar</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965234390</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>314</ID>
+        <Nome>Maria do Céu Carvalho </Nome>
+        <Referncia ns:originalKey="Referência">Prima </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>315</ID>
+        <Nome>Maria do Sameiro</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914745964</Telemvel>
+        <Referncia ns:originalKey="Referência">Cigana</Referncia>
+        <Pedidos>Carrinho 7m e 2</Pedidos>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>316</ID>
+        <Nome>Maria do socorro costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">969299206</Telemvel>
+        <Referncia ns:originalKey="Referência">D. Adriana </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>317</ID>
+        <Nome>Maria Gusman </Nome>
+        <Telemvel ns:originalKey="Telemóvel">962350725</Telemvel>
+        <Referncia ns:originalKey="Referência">Advogado Luís Miguel</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>318</ID>
+        <Nome>Maria Jessica</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912516452</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>319</ID>
+        <Nome>Maria José Melo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">965173482</Telemvel>
+        <Referncia ns:originalKey="Referência">Tânia</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>320</ID>
+        <Nome>Maria José Pereira</Nome>
+        <Referncia ns:originalKey="Referência">Colegas</Referncia>
+        <Famliade ns:originalKey="Família de">Centro </Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>321</ID>
+        <Nome>Maria José Pereira </Nome>
+        <Referncia ns:originalKey="Referência">guarda shopping</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>322</ID>
+        <Nome>Maria Luís </Nome>
+        <Telemvel ns:originalKey="Telemóvel">938472134</Telemvel>
+        <Referncia ns:originalKey="Referência">junta</Referncia>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>323</ID>
+        <Nome>Maria Manuel Vidal </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912193239</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>Baby Girl Boys 5 and 7</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>324</ID>
+        <Nome>Maria Nela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915204461</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>325</ID>
+        <Nome>Maria Rute</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935020263</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>326</ID>
+        <Nome>Maria Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938733157</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>327</ID>
+        <Nome>Maria Urizar</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912030598</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>US</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>328</ID>
+        <Nome>Mariana Rodrigues</Nome>
+        <Referncia ns:originalKey="Referência">Cigana  - amiga</Referncia>
+        <Pedidos>Carrinho 7m mesa cadeira </Pedidos>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>329</ID>
+        <Nome>Marianela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915204461</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>330</ID>
+        <Nome>Marilia Santana</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936799706</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Pedidos>girl 5</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>331</ID>
+        <Nome>Marilia Vasconcelos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">812244887</Telemvel>
+        <Referncia ns:originalKey="Referência">Filha</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>Criança 5</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>332</ID>
+        <Nome>Marilio Hassel</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936799704</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>333</ID>
+        <Nome>Marinna christinna </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933914520</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega trabalho </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>334</ID>
+        <Nome>Mário Alvarez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">9235965588</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>335</ID>
+        <Nome>Marli Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913868452</Telemvel>
+        <Referncia ns:originalKey="Referência">Claudina</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>336</ID>
+        <Nome>Martilina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911785048</Telemvel>
+        <Referncia ns:originalKey="Referência">Wiliane</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>337</ID>
+        <Nome>Maycol Garay</Nome>
+        <Telemvel ns:originalKey="Telemóvel">916380344</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>338</ID>
+        <Nome>mayra araujo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912482475</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>339</ID>
+        <Nome>Mei Lan Wong</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910279915</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga indiana</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>China</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>340</ID>
+        <Nome>Micael </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964493294</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>341</ID>
+        <Nome>Micaelle Gomes </Nome>
+        <Telemvel ns:originalKey="Telemóvel">961559892</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>Boys 5 e 2</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>342</ID>
+        <Nome>Miguel Sallas</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934848386</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>343</ID>
+        <Nome>Milanyela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926955079</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta São Lazaro</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>344</ID>
+        <Nome>Milena Tavares</Nome>
+        <Telemvel ns:originalKey="Telemóvel">915471459</Telemvel>
+        <Referncia ns:originalKey="Referência">Carla - Hostel</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>345</ID>
+        <Nome>Milla Soares</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964918499</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>346</ID>
+        <Nome>Min Malla</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920412783</Telemvel>
+        <Referncia ns:originalKey="Referência">prof.</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Notas>menina 9 meses</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>347</ID>
+        <Nome>Mirelle Kifuto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910763940</Telemvel>
+        <Famliade ns:originalKey="Família de">7</Famliade>
+        <Nacionalidade>CG</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>348</ID>
+        <Nome>Monique</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937151699</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta São Lazaro</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>349</ID>
+        <Nome>Moylone</Nome>
+        <Telemvel ns:originalKey="Telemóvel">ts4)d4</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>350</ID>
+        <Nome>Nada da conceição </Nome>
+        <Telemvel ns:originalKey="Telemóvel">936405741</Telemvel>
+        <Referncia ns:originalKey="Referência">Prima</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>351</ID>
+        <Nome>Natália </Nome>
+        <Referncia ns:originalKey="Referência">Irmã </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>352</ID>
+        <Nome>Natália  </Nome>
+        <Referncia ns:originalKey="Referência">VaP</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>353</ID>
+        <Nome>Natália  </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933736327</Telemvel>
+        <Referncia ns:originalKey="Referência">chat ucranian</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>354</ID>
+        <Nome>Natália Gomes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932272674</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigas</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>355</ID>
+        <Nome>Natália Maia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931421216</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Pedidos>meninas de 3 e 6</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>356</ID>
+        <Nome>Natália Maznichenko</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935338646</Telemvel>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>357</ID>
+        <Nome>Natalia Suarez</Nome>
+        <Telemvel ns:originalKey="Telemóvel">0968 042 273</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad/Colega VaP</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>AR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>358</ID>
+        <Nome>Nataniela Pereira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913624368</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>359</ID>
+        <Nome>Nathiele Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913634727</Telemvel>
+        <Referncia ns:originalKey="Referência">Sandra</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>360</ID>
+        <Nome>Nayely Arancibia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">916381179</Telemvel>
+        <Referncia ns:originalKey="Referência">Voluntária</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>361</ID>
+        <Nome>ndeye thioye</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920231914</Telemvel>
+        <Referncia ns:originalKey="Referência">freguesia</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>362</ID>
+        <Nome>Netra Paudel</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920378054</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Pedidos>menina 7</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>363</ID>
+        <Nome>Neuza Rocha</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927507476</Telemvel>
+        <Referncia ns:originalKey="Referência">Centro comerci</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>Girls 5 e 8</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>364</ID>
+        <Nome>Nikolai Anatsko</Nome>
+        <Telemvel ns:originalKey="Telemóvel">0962629505</Telemvel>
+        <Nacionalidade>UA </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>365</ID>
+        <Nome>Olga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938833502</Telemvel>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>366</ID>
+        <Nome>Olga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">351933146064</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad - Ucraniana</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <Pedidos>Calcas de tamnho 32-33 para filha</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>367</ID>
+        <Nome>Palmira Ferreira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920038329</Telemvel>
+        <Referncia ns:originalKey="Referência">Trabalha no shopping </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>368</ID>
+        <Nome>Pamela Nunes</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964562272</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>369</ID>
+        <Nome>Pamella</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910836183</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>370</ID>
+        <Nome>Paola urizar</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911915294</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>US</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>371</ID>
+        <Nome>Patrícia dos santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912585700</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>372</ID>
+        <Nome>Patrícia Ribeiro</Nome>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>373</ID>
+        <Nome>Pushpa Sharma</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920520304</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Notas>Boy 1 Girl 11</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>374</ID>
+        <Nome>Rahal Fethi</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934080958</Telemvel>
+        <Referncia ns:originalKey="Referência">prof Rita Maximinos</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>DZ</Nacionalidade>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>375</ID>
+        <Nome>Raiana Fraga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939170260</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>376</ID>
+        <Nome>Rainunda Ivanira</Nome>
+        <Referncia ns:originalKey="Referência">Jaquiline</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>377</ID>
+        <Nome>Raquel Navarros </Nome>
+        <Referncia ns:originalKey="Referência">Facebook</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>378</ID>
+        <Nome>Raquel Rodrigues</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937907650</Telemvel>
+        <Referncia ns:originalKey="Referência">Net</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Pedidos>colchão de solteiro e casal</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>379</ID>
+        <Nome>Raul Giraldo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">967640837</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>380</ID>
+        <Nome>Regiane</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933154951</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega d trabalho </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>381</ID>
+        <Nome>Ricarda Silva </Nome>
+        <Telemvel ns:originalKey="Telemóvel">.91598429</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>382</ID>
+        <Nome>Ricardo Ribeiro </Nome>
+        <Telemvel ns:originalKey="Telemóvel">939421554</Telemvel>
+        <Referncia ns:originalKey="Referência">colega </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>grávida </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>383</ID>
+        <Nome>Ricardo Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925904702</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>Areias S. Vicente</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>384</ID>
+        <Nome>Rickael Siqueira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929392545</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>385</ID>
+        <Nome>Rodrigues</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936799704</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>386</ID>
+        <Nome>Ronaldo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934640398</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>387</ID>
+        <Nome>Ronaldo Fajardo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934640398</Telemvel>
+        <Referncia ns:originalKey="Referência">Evelyn</Referncia>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>388</ID>
+        <Nome>Rosa Guimarães </Nome>
+        <Telemvel ns:originalKey="Telemóvel">934731248</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>meninos 4 e 8</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>389</ID>
+        <Nome>Rosa Salema</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914176648</Telemvel>
+        <Referncia ns:originalKey="Referência">Sá de Miranda</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>IN</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>390</ID>
+        <Nome>Rosa Teixeira </Nome>
+        <Referncia ns:originalKey="Referência">Palmira</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Pedidos>neta 5</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>391</ID>
+        <Nome>Rosário cuello </Nome>
+        <Telemvel ns:originalKey="Telemóvel">915298566</Telemvel>
+        <Referncia ns:originalKey="Referência">Colegas</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>392</ID>
+        <Nome>Rosário Lole</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962145923</Telemvel>
+        <Referncia ns:originalKey="Referência">Dra Helena VAP</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>393</ID>
+        <Nome>Rosenberg</Nome>
+        <Telemvel ns:originalKey="Telemóvel">937907650</Telemvel>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>394</ID>
+        <Nome>Rozimeire </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910891158</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>boy14 girl 10</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>395</ID>
+        <Nome>Rummen</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938375828</Telemvel>
+        <Referncia ns:originalKey="Referência">work colleague</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>396</ID>
+        <Nome>Rute Wilson</Nome>
+        <Telemvel ns:originalKey="Telemóvel">934943325</Telemvel>
+        <Notas>
+        </Notas>
+        <hasWarning>Yes</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>397</ID>
+        <Nome>Ruth </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920066920</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>398</ID>
+        <Nome>Ruthe Tavares </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933151424</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>399</ID>
+        <Nome>Saeunko</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920043962</Telemvel>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>400</ID>
+        <Nome>Said</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933056963</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad//luisa Ferreira </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>AF </Nacionalidade>
+        <Pedidos>Quarto até 300€</Pedidos>
+        <Notas>É voluntário </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>401</ID>
+        <Nome>Samara da Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911837873</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta Freguesia</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>402</ID>
+        <Nome>samuel rodrigues</Nome>
+        <Telemvel ns:originalKey="Telemóvel">921633539</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>403</ID>
+        <Nome>Sandra Arancibia</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939044560</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PE</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>404</ID>
+        <Nome>Sandra Costa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939470166</Telemvel>
+        <Referncia ns:originalKey="Referência">FB</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Notas>2 meninas 12 e 17</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>405</ID>
+        <Nome>Sandra Maria </Nome>
+        <Telemvel ns:originalKey="Telemóvel">933139543</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>406</ID>
+        <Nome>Santiago Monsalve</Nome>
+        <Telemvel ns:originalKey="Telemóvel">674361738</Telemvel>
+        <Referncia ns:originalKey="Referência">Primo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>ES</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>407</ID>
+        <Nome>Santu Ale</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935693904</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>NP</Nacionalidade>
+        <Notas>girl 8</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>408</ID>
+        <Nome>Sara Rossetto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935382404</Telemvel>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>Amiga </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>409</ID>
+        <Nome>Sara Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933150340</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>410</ID>
+        <Nome>Sara Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933163904</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>411</ID>
+        <Nome>Sarah Chekka</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935795193</Telemvel>
+        <Referncia ns:originalKey="Referência">FB</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>MA</Nacionalidade>
+        <Notas>boy 8 girl 3</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>412</ID>
+        <Nome>Sarah Makuntima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910383244</Telemvel>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>CG</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>413</ID>
+        <Nome>Sebastian Angulo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910226262</Telemvel>
+        <Referncia ns:originalKey="Referência">escola sampaio</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>CO</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>414</ID>
+        <Nome>Sérgio Cunha</Nome>
+        <Telemvel ns:originalKey="Telemóvel">928090203</Telemvel>
+        <Referncia ns:originalKey="Referência">colega </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>415</ID>
+        <Nome>Shaiany </Nome>
+        <Telemvel ns:originalKey="Telemóvel">938201745</Telemvel>
+        <Referncia ns:originalKey="Referência">Janaina</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>416</ID>
+        <Nome>Shehla Jabeen</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920242140</Telemvel>
+        <Referncia ns:originalKey="Referência">friend</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PK </Nacionalidade>
+        <Notas>Girl 1 Boy 16 </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>417</ID>
+        <Nome>sHeila</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936256379</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>418</ID>
+        <Nome>Sidney</Nome>
+        <Telemvel ns:originalKey="Telemóvel">933938297</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>419</ID>
+        <Nome>Simone Azevedo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964742817</Telemvel>
+        <Referncia ns:originalKey="Referência">Irma shoping </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>420</ID>
+        <Nome>Simonie</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910130514</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>421</ID>
+        <Nome>Sinayk Lázaro </Nome>
+        <Referncia ns:originalKey="Referência">internet </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>ST </Nacionalidade>
+        <Notas>menino 1 ano</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>422</ID>
+        <Nome>Somnarayan Manandhar</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920092766</Telemvel>
+        <Referncia ns:originalKey="Referência">yudi</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>NP </Nacionalidade>
+        <Notas>bebe 2 meses</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>423</ID>
+        <Nome>Sonia Azevedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939141333</Telemvel>
+        <Referncia ns:originalKey="Referência">colegas de trabalho </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>424</ID>
+        <Nome>Sonia Azevedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">939141333</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>2 ADULTAS</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>425</ID>
+        <Nome>Stella Barradas</Nome>
+        <Telemvel ns:originalKey="Telemóvel">935284829</Telemvel>
+        <Referncia ns:originalKey="Referência">k37</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>426</ID>
+        <Nome>Suely Lessa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">967464700</Telemvel>
+        <Referncia ns:originalKey="Referência">escola de Maximinos</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>427</ID>
+        <Nome>Susana Pereira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964533199</Telemvel>
+        <Referncia ns:originalKey="Referência">Virar a página</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>428</ID>
+        <Nome>Suzana Oliveira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">960007451</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>girl 10</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>429</ID>
+        <Nome>Tail Akila</Nome>
+        <Nacionalidade>DZ</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>430</ID>
+        <Nome>Tais Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920398621</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigas</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>431</ID>
+        <Nome>Tamara </Nome>
+        <Telemvel ns:originalKey="Telemóvel">913786098</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook doar e trocar </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>432</ID>
+        <Nome>Tâmara </Nome>
+        <Telemvel ns:originalKey="Telemóvel">910447902</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega keling</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>433</ID>
+        <Nome>Tania Acosta</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929343421</Telemvel>
+        <Referncia ns:originalKey="Referência">Amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>434</ID>
+        <Nome>tatiana</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911841771</Telemvel>
+        <Referncia ns:originalKey="Referência">Padre de São Lazáro</Referncia>
+        <Famliade ns:originalKey="Família de">7</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>435</ID>
+        <Nome>Tatielle Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925678938</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>436</ID>
+        <Nome>Taylane Cerqueira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">912154772</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta Freguesia</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>437</ID>
+        <Nome>Taynara Vasconcelos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926313002</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta</Referncia>
+        <Famliade ns:originalKey="Família de">6</Famliade>
+        <Nacionalidade>AO </Nacionalidade>
+        <Notas>girl 7 e 18 boy 11 e 15</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>438</ID>
+        <Nome>Teresa Sousa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912244887</Telemvel>
+        <Referncia ns:originalKey="Referência">Igreja Mac</Referncia>
+        <Famliade ns:originalKey="Família de">7</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Pedidos>Menina 3</Pedidos>
+        <Notas>meninos 17, 11, 6</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>439</ID>
+        <Nome>Thais Alves</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913311552</Telemvel>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>440</ID>
+        <Nome>Thellano </Nome>
+        <Telemvel ns:originalKey="Telemóvel">927551828</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>441</ID>
+        <Nome>Thomas Varela</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962545982</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>UY </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>442</ID>
+        <Nome>Tracy</Nome>
+        <Telemvel ns:originalKey="Telemóvel">961432106</Telemvel>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>443</ID>
+        <Nome>Udicya</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926846366</Telemvel>
+        <Referncia ns:originalKey="Referência">Colega</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>Menino 11</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>444</ID>
+        <Nome>Uelita Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">910226235</Telemvel>
+        <Referncia ns:originalKey="Referência">Junta</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>girl 1 boy 14</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>445</ID>
+        <Nome>Valentina Leon </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920337743</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>446</ID>
+        <Nome>Vanessa Alves</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914422072</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>447</ID>
+        <Nome>Vanessa Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">929243290</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>menino 10 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>448</ID>
+        <Nome>Vânia Pinto</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913977179</Telemvel>
+        <Referncia ns:originalKey="Referência">Sandra VaP</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Pedidos>Tem menina com problemas de saude</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>449</ID>
+        <Nome>Vasil </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920548345</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigos</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>UA </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>450</ID>
+        <Nome>Vaudenora Santos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">914238524</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>451</ID>
+        <Nome>Veronika Dasha</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938670704</Telemvel>
+        <Referncia ns:originalKey="Referência">Ucranian chat</Referncia>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>452</ID>
+        <Nome>Vitória Macedo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932618101</Telemvel>
+        <Referncia ns:originalKey="Referência">Daiana</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>453</ID>
+        <Nome>Viviane </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935262023</Telemvel>
+        <Referncia ns:originalKey="Referência">Facebook </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>454</ID>
+        <Nome>Viviane Nascimento</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913374220</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>menina 1a7m</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>455</ID>
+        <Nome>Vladimir </Nome>
+        <Telemvel ns:originalKey="Telemóvel">911508712</Telemvel>
+        <Referncia ns:originalKey="Referência">Amigo </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>456</ID>
+        <Nome>Washington Alves</Nome>
+        <Telemvel ns:originalKey="Telemóvel">932806813</Telemvel>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>Amigos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>457</ID>
+        <Nome>wellington Santos </Nome>
+        <Telemvel ns:originalKey="Telemóvel">911179136</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>458</ID>
+        <Nome>Weza do Carmo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935940804</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <Pedidos>faz muitos comentários</Pedidos>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>459</ID>
+        <Nome>Wilian </Nome>
+        <Telemvel ns:originalKey="Telemóvel">963974583</Telemvel>
+        <Referncia ns:originalKey="Referência">Alberto Sampaio</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>460</ID>
+        <Nome>Wiliane</Nome>
+        <Telemvel ns:originalKey="Telemóvel">963474853</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad curso Port</Referncia>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>461</ID>
+        <Nome>Willamis Melo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">912479186</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>462</ID>
+        <Nome>Yan Korenevskyi</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938477948</Telemvel>
+        <Referncia ns:originalKey="Referência">Ucranian chat</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <Notas>Tirou artigos hygienicos, com amigo</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>463</ID>
+        <Nome>Yasmim Souza</Nome>
+        <Telemvel ns:originalKey="Telemóvel">930648734</Telemvel>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>464</ID>
+        <Nome>Yelysavete</Nome>
+        <Telemvel ns:originalKey="Telemóvel">380685409253</Telemvel>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>465</ID>
+        <Nome>Yuliia Kosyk</Nome>
+        <Telemvel ns:originalKey="Telemóvel">916 649 938</Telemvel>
+        <Referncia ns:originalKey="Referência">Farhad/Telegram</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>UA</Nacionalidade>
+        <Notas>menina 7 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>466</ID>
+        <Nome>Zakriyya Rahhal</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927969833</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>SY</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>467</ID>
+        <Nome>Zin Abidine</Nome>
+        <Telemvel ns:originalKey="Telemóvel">926435922</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>FR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>468</ID>
+        <Nome>Sara Rodrigues </Nome>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menina 5 e meninao 4</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>469</ID>
+        <Nome>Maria Aparecida Barbosa </Nome>
+        <Referncia ns:originalKey="Referência">cunhada</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>470</ID>
+        <Nome>Juliana Lima</Nome>
+        <Telemvel ns:originalKey="Telemóvel">913381944</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>memina 7 e menina 12</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>471</ID>
+        <Nome>Augusto Cardosa</Nome>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>472</ID>
+        <Nome>João Fernandes </Nome>
+        <Referncia ns:originalKey="Referência">amigo</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>473</ID>
+        <Nome>Oksana </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964561774</Telemvel>
+        <Referncia ns:originalKey="Referência">redes sociais </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>UA </Nacionalidade>
+        <Notas>menino 8, menina 7 e menina 4</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>474</ID>
+        <Nome>Francis Yuman</Nome>
+        <Telemvel ns:originalKey="Telemóvel">43739412</Telemvel>
+        <Referncia ns:originalKey="Referência">projeto </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>GT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>475</ID>
+        <Nome>Jessica Vieira</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966816646</Telemvel>
+        <Referncia ns:originalKey="Referência">paróquia </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menino 5 e 2 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>476</ID>
+        <Nome>Tânia Freitas</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964432371</Telemvel>
+        <Referncia ns:originalKey="Referência">colega de trabalho </Referncia>
+        <Famliade ns:originalKey="Família de">7</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>menino 4 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>477</ID>
+        <Nome>Maria Helena Calvalcante </Nome>
+        <Telemvel ns:originalKey="Telemóvel">932388771</Telemvel>
+        <Referncia ns:originalKey="Referência">Voluntária Karina </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>irmã com mobilidade reduzida </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>478</ID>
+        <Nome>Ricardo Ricon </Nome>
+        <Telemvel ns:originalKey="Telemóvel">937049854</Telemvel>
+        <Referncia ns:originalKey="Referência">Voluntária Karina </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>479</ID>
+        <Nome>Eliada Santos </Nome>
+        <Telemvel ns:originalKey="Telemóvel">928142653</Telemvel>
+        <Referncia ns:originalKey="Referência">família </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menina 4 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>480</ID>
+        <Nome>Iafai manga</Nome>
+        <Telemvel ns:originalKey="Telemóvel">938847250</Telemvel>
+        <Referncia ns:originalKey="Referência">família </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>481</ID>
+        <Nome>Marthe ekossono</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966702342</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CV </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>482</ID>
+        <Nome>Mohamadou Yakourmi </Nome>
+        <Telemvel ns:originalKey="Telemóvel">935637090</Telemvel>
+        <Referncia ns:originalKey="Referência">Farahd</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>CV</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>483</ID>
+        <Nome>Carlos Giraldo </Nome>
+        <Telemvel ns:originalKey="Telemóvel">920378652</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CO </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>484</ID>
+        <Nome>Tamires Sousa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">962982039</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <Notas>menina 8 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>485</ID>
+        <Nome>Ana Rodrigues </Nome>
+        <Telemvel ns:originalKey="Telemóvel">914708868</Telemvel>
+        <Referncia ns:originalKey="Referência">Fátima - beneficiaria</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>486</ID>
+        <Nome>serifo baldé</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920335883</Telemvel>
+        <Referncia ns:originalKey="Referência">fatima - beneficiaria</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>GN </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>487</ID>
+        <Nome>Jose nova - Vap voluntariado </Nome>
+        <Telemvel ns:originalKey="Telemóvel">964817256</Telemvel>
+        <Referncia ns:originalKey="Referência">vap</Referncia>
+        <Nacionalidade>PT </Nacionalidade>
+        <Notas>buscar roupa para beneficiario</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>488</ID>
+        <Nome>israel porras </Nome>
+        <Telemvel ns:originalKey="Telemóvel">932530071</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>489</ID>
+        <Nome>maria taina</Nome>
+        <Telemvel ns:originalKey="Telemóvel">936535557</Telemvel>
+        <Referncia ns:originalKey="Referência">junta freguesia</Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>menina 3 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>490</ID>
+        <Nome>Lucas Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">938631691</Telemvel>
+        <Referncia ns:originalKey="Referência">junta freguesia </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>1 anos</Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>491</ID>
+        <Nome>Ekossono</Nome>
+        <Telemvel ns:originalKey="Telemóvel">964702342</Telemvel>
+        <Nacionalidade>FR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>492</ID>
+        <Nome>Madi Sekandari</Nome>
+        <Telemvel ns:originalKey="Telemóvel">927684412</Telemvel>
+        <Referncia ns:originalKey="Referência">Said </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>493</ID>
+        <Nome>Danielle otaviano</Nome>
+        <Telemvel ns:originalKey="Telemóvel">966466324</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>494</ID>
+        <Nome>Cristiane Ferreira da Costa </Nome>
+        <Telemvel ns:originalKey="Telemóvel">937327312</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>495</ID>
+        <Nome>Mekennang Lidy</Nome>
+        <Telemvel ns:originalKey="Telemóvel">923170039</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>CM </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>496</ID>
+        <Nome>Denio Brasilino</Nome>
+        <Telemvel ns:originalKey="Telemóvel">911835179</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>497</ID>
+        <Nome>Fernando Bastos</Nome>
+        <Telemvel ns:originalKey="Telemóvel">962575315</Telemvel>
+        <Referncia ns:originalKey="Referência">Pedro - VaP</Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>498</ID>
+        <Nome>Saulo Cardozo</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931750152</Telemvel>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>499</ID>
+        <Nome>Francisco Barbosa</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925549957</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>BR </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>500</ID>
+        <Nome>Gabriel Silva</Nome>
+        <Telemvel ns:originalKey="Telemóvel">925567760</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">2</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <Notas>sobrinho </Notas>
+        <hasWarning>No</hasWarning>
+        <hasChildren>Yes</hasChildren>
+    </item>
+    <item>
+        <ID>501</ID>
+        <Nome>Juliana Jesus</Nome>
+        <Telemvel ns:originalKey="Telemóvel">920497359</Telemvel>
+        <Referncia ns:originalKey="Referência">cunhada</Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>502</ID>
+        <Nome>Jacline Oliveira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">937927108</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos</Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BR</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>503</ID>
+        <Nome>Manuela Cerqueira </Nome>
+        <Telemvel ns:originalKey="Telemóvel">927324784</Telemvel>
+        <Referncia ns:originalKey="Referência">amigo </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>504</ID>
+        <Nome>Manuel Loureiro </Nome>
+        <Telemvel ns:originalKey="Telemóvel">965768067</Telemvel>
+        <Referncia ns:originalKey="Referência">amigos </Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>505</ID>
+        <Nome>Jeanne Carine</Nome>
+        <Telemvel ns:originalKey="Telemóvel">931843689</Telemvel>
+        <Referncia ns:originalKey="Referência">vizinha </Referncia>
+        <Famliade ns:originalKey="Família de">3</Famliade>
+        <Nacionalidade>KY</Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>506</ID>
+        <Nome>Maria Madalena </Nome>
+        <Telemvel ns:originalKey="Telemóvel">961395829</Telemvel>
+        <Referncia ns:originalKey="Referência">irmã </Referncia>
+        <Famliade ns:originalKey="Família de">4</Famliade>
+        <Nacionalidade>PT </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>507</ID>
+        <Nome>Sofia Denis </Nome>
+        <Referncia ns:originalKey="Referência">junta de freguesia </Referncia>
+        <Famliade ns:originalKey="Família de">5</Famliade>
+        <Nacionalidade>BG </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>508</ID>
+        <Nome>Samira Viera</Nome>
+        <Referncia ns:originalKey="Referência">amiga</Referncia>
+        <Famliade ns:originalKey="Família de">1</Famliade>
+        <Nacionalidade>CV </Nacionalidade>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+    <item>
+        <ID>509</ID>
+        <Nome>Lúcia Pedro</Nome>
+        <hasWarning>No</hasWarning>
+        <hasChildren>No</hasChildren>
+    </item>
+</root>
